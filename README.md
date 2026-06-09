@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+npm install -g eas-cli<!-- Banner Image -->
 
 <p align="center">
   <a href="https://expo.dev/">
